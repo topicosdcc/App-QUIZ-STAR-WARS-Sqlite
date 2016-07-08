@@ -4,5 +4,5 @@ Aplicativo Android desenvolvido na Disciplina de DCC/UFRR utilizando SQlite exte
 ![alt tag](https://github.com/topicosdcc/App-QUIZ-STAR-WARS-Sqlite/blob/master/Screenshot/Screenshot_2016-06-29-20-46-25.png)
 
 <img src="https://github.com/topicosdcc/App-QUIZ-STAR-WARS-Sqlite/blob/master/Screenshot/Screenshot_2016-06-29-20-46-25.png" 
-alt="Smiley face" height="400" > Try it Yourself »
+alt="Smiley face" height="400">
 
