@@ -1,4 +1,8 @@
 # App-QUIZ-STAR-WARS-Sqlite
+DCC917A -TÓPICOS ESPECIAIS III: DESENVOLVIMENTO DE APLICATIVOS MÓVEIS (2016 .1 - T01)
+UFRR - Universidade Federal de Roraima
+DCC -  Departamento de Ciência da Computação
+
 Aplicativo Android desenvolvido na Disciplina de DCC/UFRR utilizando SQlite externo para o Banco de perguntas para o QUIZ sobre Star Wars
 
 <img src="https://github.com/topicosdcc/App-QUIZ-STAR-WARS-Sqlite/blob/master/Screenshot/Screenshot_2016-06-29-20-46-25.png" 
@@ -19,4 +23,8 @@ alt="Smiley face" height="500">
 alt="Smiley face" height="500">
 <img src="https://github.com/topicosdcc/App-QUIZ-STAR-WARS-Sqlite/blob/master/Screenshot/Screenshot_2016-06-29-20-47-31.png" 
 alt="Smiley face" height="500">
+
+
+
+
 
