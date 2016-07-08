@@ -1,4 +1,4 @@
-# App-QUIZ-STAR-WARS-Sqlite
+# App QUIZ: STAR WARS Sqlite externo
 DCC917A -TÓPICOS ESPECIAIS III: DESENVOLVIMENTO DE APLICATIVOS MÓVEIS (2016 .1 - T01)
 UFRR - Universidade Federal de Roraima
 DCC -  Departamento de Ciência da Computação/ Prof. Orientador: FILIPE DWAN PEREIRA
