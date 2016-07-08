@@ -1,0 +1,31 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@drawable/estrela_da_morte_1"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/estrela_da_morte_2"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/estrela_da_morte_3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/estrela_da_morte_4"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/estrela_da_morte_5"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/estrela_da_morte_6"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/estrela_da_morte_7"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/estrela_da_morte_8"
+        android:duration="200" />
+
+</animation-list>
+

@@ -1,0 +1,32 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@drawable/personagem1"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/personagem0"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/personagem2"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/personagem3"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/personagem4"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/personagem5"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/personagem6"
+        android:duration="500" />
+    <item
+        android:drawable="@drawable/personagem7"
+        android:duration="500" />
+
+
+</animation-list>
+

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QUIZ Star Wars</string>
+    <string name="action_settings">Settings</string>
+    <string name="Tab1">INÍCIO</string>
+    <string name="Tab2">RANK</string>
+    <string name="Tab3">SOBRE</string>
+</resources>
