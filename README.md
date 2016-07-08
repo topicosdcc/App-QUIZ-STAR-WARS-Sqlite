@@ -1,7 +1,7 @@
 # App-QUIZ-STAR-WARS-Sqlite
 DCC917A -TÓPICOS ESPECIAIS III: DESENVOLVIMENTO DE APLICATIVOS MÓVEIS (2016 .1 - T01)
 UFRR - Universidade Federal de Roraima
-DCC -  Departamento de Ciência da Computação
+DCC -  Departamento de Ciência da Computação/ Prof. Orientador: FILIPE DWAN PEREIRA
 
 Aplicativo Android desenvolvido na Disciplina de DCC/UFRR utilizando SQlite externo para o Banco de perguntas para o QUIZ sobre Star Wars
 
