@@ -24,9 +24,6 @@ alt="Smiley face" height="500">
 <img src="https://github.com/topicosdcc/App-QUIZ-STAR-WARS-Sqlite/blob/master/Screenshot/Screenshot_2016-06-29-20-47-31.png" 
 alt="Smiley face" height="500">
 
-<img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" 
-alt="Smiley face" height="100">
-
 <p>
 Link no Google Play: <a href="https://play.google.com/store/apps/details?id=dee.ufrr.semanaeletrica">
 <img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" 
