@@ -25,7 +25,7 @@ alt="Smiley face" height="500">
 alt="Smiley face" height="500">
 
 <img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" 
-alt="Smiley>
+alt="Smiley face" height="500">
 
 
 
