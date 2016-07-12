@@ -25,7 +25,7 @@ alt="Smiley face" height="500">
 alt="Smiley face" height="500">
 
 <p>
-Link no Google Play: \n <a href="https://play.google.com/store/apps/details?id=dee.ufrr.semanaeletrica">
+Link no Google Play: <p> <a href="https://play.google.com/store/apps/details?id=dee.ufrr.semanaeletrica">
 <img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" 
 alt="Smiley face" height="100">
 </a>
